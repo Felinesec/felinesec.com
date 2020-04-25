@@ -7,11 +7,11 @@
 .fs-brand {
     background-image: url('../images/brand-inline.png');
     display: inline-block;
-    height: 32px;
+    height: 27px;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 145px;
-    margin: 4px 0 0 0;
+    width: 124px;
+    margin: 8px 0 0 0;
 }
 
 .fs-brand.fs-brand--extended {
@@ -65,6 +65,7 @@ header ul li a:hover {
 .fs-button--dist {
     margin: 2px;
 }
+
 .fs-button {
     display: inline-block;
     padding: 12px;

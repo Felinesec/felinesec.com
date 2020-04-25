@@ -16,13 +16,13 @@
     }
 
     header ul li {
-	padding: 5px;
+        padding: 5px;
         display: block;
-	border-radius: 10px;	    
+        border-radius: 10px;
     }
 
     li.selected {
-	border-radius: 15px 15px 15px 15px;
+        border-radius: 15px 15px 15px 15px;
     }
 
     .fs-brand {
@@ -40,17 +40,17 @@
     }
 
     p {
-	margin: 25px;
+        margin: 25px;
     }
 
     h1 {
-	margin: 25px;
-	text-align: center;
+        margin: 25px;
+        text-align: center;
     }
 
     h2 {
-	line-height: 35px;
-	text-align: center;
+        line-height: 35px;
+        text-align: center;
     }
 
     .fs-section {
@@ -58,20 +58,21 @@
     }
 
     .fs-card {
-	display: inline-block;
-	width: 80%;
-	margin: 10px;
-	max-height: 150em;
+        display: inline-block;
+        width: 80%;
+        margin: 10px;
+        max-height: 150em;
     }
+
     .fs-flex {
         display: initial;
     }
-    
+
     .fs-col {
         width: initial;
         padding: 0 20px 10px;
     }
-    
+
     .fs-padding {
         padding: 30px 0 10px 0;
     }
